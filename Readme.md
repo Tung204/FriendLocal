@@ -1,0 +1,2 @@
+# FriendLocal
+local message
