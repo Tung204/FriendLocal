@@ -1,2 +1,0 @@
-# FriendLocal
-local message
